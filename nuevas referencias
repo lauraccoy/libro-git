@@ -1,0 +1,60 @@
+*   [33mcommit e45e37fd65864ae97cbc83662458d141baa5c973[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: 376880b 8827b2b
+[31m|[m [32m|[m Author: laura <lauraccoy@hotmail.com>
+[31m|[m [32m|[m Date:   Tue Feb 6 19:21:49 2024 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Fusión de ramas
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 8827b2b218d17713bf5ece40d70a852fbbe09efd[m
+[31m|[m [32m|[m Author: laura <lauraccoy@hotmail.com>
+[31m|[m [32m|[m Date:   Tue Feb 6 19:06:18 2024 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Añadidad primera referencia bibliográfica.
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 376880b172853530c3210789444a3602f3068269[m
+[32m|[m [32m|[m Author: laura <lauraccoy@hotmail.com>
+[32m|[m [32m|[m Date:   Tue Feb 6 19:21:37 2024 +0100
+[32m|[m [32m|[m 
+[32m|[m [32m|[m     Guardar cambio locales en bibliografia
+[32m|[m [32m|[m 
+* [32m|[m [33mcommit 6b1cd47eb3b61b5a51f2873f096bf884273724c3[m
+[32m|[m[32m/[m  Author: laura <lauraccoy@hotmail.com>
+[32m|[m   Date:   Tue Feb 6 19:02:19 2024 +0100
+[32m|[m   
+[32m|[m       Añadido capítulo 4
+[32m|[m 
+* [33mcommit 0ce4cc45e7b03e20ef3ce8c6da0d292f71618451[m
+[32m|[m Author: laura <lauraccoy@hotmail.com>
+[32m|[m Date:   Tue Feb 6 18:14:45 2024 +0100
+[32m|[m 
+[32m|[m     Añadido capítulo 5 al indice
+[32m|[m 
+* [33mcommit ed2d7737e54f023e12990aff348a096de7eca0b0[m
+[32m|[m Author: laura <lauraccoy@hotmail.com>
+[32m|[m Date:   Tue Feb 6 18:11:26 2024 +0100
+[32m|[m 
+[32m|[m     Añadido capítulo 3
+[32m|[m 
+* [33mcommit 45ffce4cd033d4ed4b498f7463677a51e5e6ee3d[m
+[32m|[m Author: laura <lauraccoy@hotmail.com>
+[32m|[m Date:   Tue Feb 6 18:06:45 2024 +0100
+[32m|[m 
+[32m|[m     Añadido capítulo 2
+[32m|[m 
+* [33mcommit 16e9ef4cd37547b01f2890fcbccfd3759b51da38[m
+[32m|[m Author: laura <lauraccoy@hotmail.com>
+[32m|[m Date:   Tue Feb 6 18:03:13 2024 +0100
+[32m|[m 
+[32m|[m     Añadido capítulo 1.
+[32m|[m 
+* [33mcommit 1811a8e02f94dfce40282350dd2ad4cba55e9e81[m
+[32m|[m Author: laura <lauraccoy@hotmail.com>
+[32m|[m Date:   Tue Feb 6 17:25:56 2024 +0100
+[32m|[m 
+[32m|[m     Añadido capítulo 3 sobre gestión de ramas al índice
+[32m|[m 
+* [33mcommit 7604245c57d42781e78229dd6ede5162558f2583[m
+  Author: laura <lauraccoy@hotmail.com>
+  Date:   Tue Feb 6 17:23:38 2024 +0100
+  
+      Añadido indice del libro
